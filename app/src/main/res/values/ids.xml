@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="login" type="id" />
+    <item name="signUp" type="id" />
+    <item name="txtInLayoutUsername" type="id" />
+    <item name="txtInLayoutPassword" type="id" />
+    <item name="rememberMe" type="id" />
+    <item name="reg_username" type="id" />
+    <item name="reg_password" type="id" />
+    <item name="reg_firstName" type="id" />
+    <item name="reg_lastName" type="id" />
+    <item name="reg_email" type="id" />
+    <item name="reg_confirmemail" type="id" />
+    <item name="reg_register" type="id" />
+    <item name="txtInLayoutRegPassword" type="id" />
+</resources>
